@@ -1,0 +1,13 @@
+# Ignore large datasets
+data/**
+!data/README.md
+results/*.joblib
+results/*.pkl
+results/*.bin
+results/*.h5
+results/*.pt
+results/*.onnx
+*.zip
+*.7z
+*.tar.gz
+*.tar
